@@ -1,4 +1,7 @@
 body {
   background-image: linear-gradient(to right bottom, #ff0000, #ff5d00, #ff8b00, #ffb300, #ffd800);
   background-repeat: no-repeat;
+  height: 100%;
+  margin: 0;
+  background-attachment: fixed;
 }
