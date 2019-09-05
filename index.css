@@ -1,2 +1,4 @@
-
-body {background: linear-gradient(0deg, rgba(34,193,195,1) 0%, rgba(253,187,45,1) 100%);}
+body {
+  background-image: linear-gradient(to right bottom, #ff0000, #ff5d00, #ff8b00, #ffb300, #ffd800);
+  background-repeat: no-repeat;
+}
